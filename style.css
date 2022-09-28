@@ -1,0 +1,21 @@
+body{
+    background-image: linear-gradient(to right top,red,rgb(157, 65, 65),rgb(125, 55, 55),rgb(120, 15, 15));
+}
+
+button{
+    border-radius: 25px;
+    width: 30%;
+}
+
+.heading{
+    width: 100%;
+    margin: 0px;
+    font-size: 23px;
+}
+
+canvas{
+    box-shadow: 10px 10px 10px grey;
+    border-radius: 10px;
+    margin-top: 60px;
+    background-color: white;
+}
